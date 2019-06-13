@@ -1,0 +1,35 @@
+Bootstrap:
+
+Files written: 2
+Ligns written: 95
+Bytes of all codes: 31627
+
+Installer:
+
+Files written: 2
+Ligns written: 333
+Bytes of all codes: 17151
+
+Launcher:
+
+Files written: 2
+Ligns written: 333
+Bytes of all codes: 17151
+
+Server side (mod):
+
+Files written: 266
+Ligns written: 26 429
+Bytes of all codes: 1002264
+
+Client side (mod):
+
+Files written: 859
+Ligns written: 54 896
+Bytes of all codes: 3677188
+
+Plugin:
+
+Files written: 9
+Ligns written: 2 362
+Bytes of all codes: 103559
