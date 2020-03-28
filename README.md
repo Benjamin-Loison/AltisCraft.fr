@@ -10,3 +10,5 @@ Je considère qu'utiliser mon code dans un projet rend l'entièreté du projet g
 
 J'invite le développeur à comprendre, tester et modifier.
 Toute utilisation abusive de littéralement copier-coller sera punie, des modifications de la charte graphique sont par exemple un moyen de contourner ce critère.
+
+Note: Ce code source peut daté et je ne suis pas fière de certaines parties. C'était mon tout premier projet d'informatique et c'est pour ce projet que mon engouement pour la programmation a éclot.
