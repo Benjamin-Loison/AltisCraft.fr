@@ -15,6 +15,6 @@ Note: Ce code source peut daté et je ne suis pas fière de certaines parties. C
 
 Un merci à Diabolicatrix, Robin et l'ensemble de la communauté de Minecraft Forge France pour l'aide qu'il avait pu me donner à mes débuts.
 
-![alt text](https://github.com/Benjamin-Loison/Lot-of-Java-projects/raw/master/Website/Images/12.jpg)
+![alt text](https://github.com/Benjamin-Loison/AltisCraft.fr/raw/master/Website/Images/12.jpg)
 
-![alt text](https://github.com/Benjamin-Loison/Lot-of-Java-projects/raw/master/Website/Images/11.jpg)
+![alt text](https://github.com/Benjamin-Loison/AltisCraft.fr/raw/master/Website/Images/11.jpg)
