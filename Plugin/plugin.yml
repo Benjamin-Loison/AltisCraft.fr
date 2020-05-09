@@ -1,0 +1,49 @@
+name: AltisCraft.fr
+main: fr.benjaminloison.altiscraft.main.AltisCraft
+version: 1.0.0
+author: Benjamin Loison
+description: Plugin AltisCraft.fr
+commands:
+  sync:
+    description: Synchronisation
+    usage: /sync
+  carshop:
+    description: Car Shop
+    usage: /carshop
+  spawns:
+    description: Spawns
+    usage: /spawns
+  house:
+    description: House
+    usage: /house <info/buy/sell/add/remove> [player]
+  antv:
+    description: ANTV News
+    usage: /antv <titre> <message> <image>
+  uuid:
+    description: UUID from player
+    usage: /uuid <player>
+  name:
+    description: Name from UUID
+    usage: /name <uuid>
+  crash:
+    description: Close the game
+    usage: /crash <player>
+  cuff:
+    description: Cuff a player
+    usage: /cuff player
+  uncuff:
+    description: Uncuff a player
+    usage: /uncuff player
+  escort:
+    description: Escort a player
+    usage: /escort player
+  unescort:
+    description: Unescort a player
+    usage: /unescort player
+  seeinv:
+    description: See the inventory of a player
+    usage: /seeinv player
+  friend:
+    description: Friend
+    usage: /friend
+depends: [WorldGuard, WorldEdit]
