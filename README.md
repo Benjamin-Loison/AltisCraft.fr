@@ -1,4 +1,7 @@
 # AltisCraft.fr
+
+Si vous avez un token d'accès au code source complet, utilisez-le ainsi dans un terminal équipé de git: git clone https://di:TOKENg@gitlab.com/Benjamin_Loison/AltisCraft.fr.git
+
 This repository will be step by step completed during a few years.
 
 Even if I got the full code, I won't upload it yet because it can in a way affect my main project: LemnosLife
