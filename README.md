@@ -16,7 +16,7 @@ Toute utilisation abusive de littéralement copier-coller sera punie, des modifi
 
 Note: <!-- Ce code source peut daté et je ne suis pas fière de certaines parties. -->C'était mon tout premier projet d'informatique et c'est pour ce projet que mon engouement pour la programmation a débuté.<!--  Quelques rares parties peuvent provenir de Flan's Mod et ThirstMod (j'ai fait mon maximum pour éviter de reuploader une partie de leurs codes).-->
 
-Un merci à Diabolicatrix, Robin et l'ensemble de la communauté de Minecraft Forge France pour l'aide qu'ils m'ont donnée à mes débuts.
+Un grand merci à Diabolicatrix, Robin et l'ensemble de la communauté de Minecraft Forge France pour l'aide qu'ils m'ont donnée à mes débuts.
 
 ![alt text](https://raw.githubusercontent.com/Benjamin-Loison/AltisCraft.fr/master/Website/Images/12.png)
 
