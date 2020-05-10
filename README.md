@@ -1,6 +1,6 @@
 # AltisCraft.fr
 
-Si vous avez un token d'accès au code source complet, utilisez-le ainsi dans un terminal équipé de git: git clone https://di:TOKEN@gitlab.com/Benjamin_Loison/AltisCraft.fr.git
+Si vous avez un token d'accès au code source complet, utilisez-le ainsi dans un terminal équipé de git: git clone https://di:TOKEN@gitlab.com/Benjamin_Loison/AltisCraft.fr.git (1.9 MB)
 
 This repository will be step by step completed during a few years.
 
