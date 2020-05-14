@@ -18,6 +18,14 @@ Note: <!-- Ce code source peut daté et je ne suis pas fière de certaines parti
 
 Un grand merci à Diabolicatrix, Robin et l'ensemble de la communauté de Minecraft Forge France pour l'aide qu'ils m'ont donnée à mes débuts.
 
+Comptage fait sans compter les lib
+
+|                                        | Files | KLOC | KB    |
+| ---------------------------------------|:-----:|:----:|:-----:|
+| Côté client (dont launcher)            | 196   | 17   | 665   |
+| Côté serveur (dont plugin et site web) | 134   | 11   | 524   |
+| Total                                  | 330   | 28   | 1 189 |
+
 ![alt text](https://raw.githubusercontent.com/Benjamin-Loison/AltisCraft.fr/master/Website/Images/12.png)
 
 ![alt text](https://raw.githubusercontent.com/Benjamin-Loison/AltisCraft.fr/master/Website/Images/11.png)
