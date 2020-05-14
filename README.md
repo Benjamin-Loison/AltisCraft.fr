@@ -18,7 +18,7 @@ Note: <!-- Ce code source peut daté et je ne suis pas fière de certaines parti
 
 Un grand merci à Diabolicatrix, Robin et l'ensemble de la communauté de Minecraft Forge France pour l'aide qu'ils m'ont donnée à mes débuts.
 
-Comptage fait sans compter les lib
+Comptage du code Java fait sans compter les librairies tiers:
 
 |                                        | Files | KLOC | KB    |
 | ---------------------------------------|:-----:|:----:|:-----:|
