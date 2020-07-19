@@ -2,6 +2,18 @@
 
 Si vous avez un token d'accès au code source complet, utilisez-le ainsi dans un terminal équipé de git: git clone https://di:TOKEN@gitlab.com/Benjamin_Loison/AltisCraft.fr.git (1.9 MB)
 
+Extension Minecraft AltisCraft.fr (plus de 30 KLOC de Java et plus de 85 000 joueurs).
+
+- Code ajoutant de nombreux contenus en jeu.
+- Recherche de différents algorithmes pour répondre en temps réel à des problèmes de manière massive (275 joueurs connectés en même temps).
+- Gestion des interactions programmées entre le serveur de jeu, un serveur vocal, un serveur web et les ordinateurs clients.
+- Gestion d'un serveur d'authentification.
+- Gestion d'un site web.
+- Adaptations et améliorations de codes sources extérieurs.
+- Utilisation importante de rendu personnalisés 2D et 3D.
+- Nombreuses interfaces utilisateurs augmentant les fonctionnalités.
+- Sécurités contre le vol (exécution côté client, obfuscation et séparation du code du client et du serveur)
+
 This repository will be step by step completed during a few years.
 
 Even if I got the full code, I won't upload it yet because it may somehow disrupt my main project: LemnosLife
@@ -14,7 +26,7 @@ Je considère qu'utiliser mon code dans un projet rend l'entièreté du projet g
 J'invite le développeur à comprendre, tester et modifier.
 Toute utilisation abusive de littéralement copier-coller sera punie, des modifications de la charte graphique sont par exemple un moyen de contourner ce critère.) -->
 
-Merci aux plus de 85 000 joueurs qui ont joué sur mon serveur avec cette extension.
+<!-- Merci aux plus de 85 000 joueurs qui ont joué sur mon serveur avec cette extension. -->
 
 Note: <!-- Ce code source peut daté et je ne suis pas fière de certaines parties. -->C'était mon tout premier projet d'informatique et c'est pour ce projet que mon engouement pour la programmation a débuté.<!--  Quelques rares parties peuvent provenir de Flan's Mod et ThirstMod (j'ai fait mon maximum pour éviter de reuploader une partie de leurs codes).-->
 
