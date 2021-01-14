@@ -1,6 +1,6 @@
 # AltisCraft.fr
 
-<!-- Si vous avez un token d'accès au code source complet, utilisez-le ainsi dans un terminal équipé de git: git clone https://di:TOKEN@gitlab.com/Benjamin_Loison/AltisCraft.fr.git (1.9 MB) -->
+Si vous avez un token d'accès au code source complet, utilisez-le ainsi dans un terminal équipé de git: git clone https://di:TOKEN@gitlab.com/Benjamin_Loison/AltisCraft.fr.git (5.2 MB)
 
 Extension Minecraft AltisCraft.fr (plus de 30 KLOC de Java et plus de 85 000 joueurs).
 
