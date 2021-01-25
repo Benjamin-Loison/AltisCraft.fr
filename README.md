@@ -16,7 +16,7 @@ Extension Minecraft AltisCraft.fr (plus de 30 KLOC de Java et plus de 85 000 jou
 
 This repository will be step by step completed during a few years.
 
-Even if I got the full code, I won't upload it yet because it may somehow disrupt my main project: LemnosLife
+I won't upload the full code yet because it may somehow disrupt my main project: LemnosLife
 
 <!-- Toute reprise du code doit impliquer une remarque à l'utilisateur finale que vous avez utilisé mon code. Ceci peut passer par un fichier texte téléchargé sur chaque ordinateur utilisant mon code.
 
