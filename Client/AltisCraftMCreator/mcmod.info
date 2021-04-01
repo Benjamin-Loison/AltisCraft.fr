@@ -1,0 +1,19 @@
+[
+{
+  "modid": "AltisCraft",
+  "name": "AltisCraft",
+  "description": "Mise à jour des ATM et autres . . .",
+  "version": "2.3.2",
+  "credits": "Crée par minette2400",
+  "logoFile": "/logo.png",
+  "mcversion": "1.7.10",
+  "url": "http://www.altiscraft.fr",
+  "updateUrl": "",
+  "authors": [ "minette2400" ],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
