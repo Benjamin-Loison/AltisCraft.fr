@@ -1,4 +1,13 @@
 {
+   "Allah Akbar": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "Allah Akbar",
+               "stream": false
+           }
+       ]
+   },
    "Siren": {
        "category": "player",
        "sounds": [
