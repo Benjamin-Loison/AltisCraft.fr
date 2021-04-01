@@ -1,0 +1,38 @@
+{
+   "Siren": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "Siren",
+               "stream": true
+           }
+       ]
+   },
+   "Horn 0": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "Horn 0",
+               "stream": false
+           }
+       ]
+   },
+   "Horn 1": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "Horn 1",
+               "stream": false
+           }
+       ]
+   },
+   "Horn 2": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "Horn 2",
+               "stream": false
+           }
+       ]
+   }
+}
