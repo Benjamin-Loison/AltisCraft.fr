@@ -7,20 +7,20 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;
 
-public class GPS extends Item
+public class Map extends Item
 {
-    public GPS()
+    public Map()
     {
-        setUnlocalizedName("gps");
-        setTextureName(AltisCraft.MODID + ":GPS");
+        setUnlocalizedName("map");
+        setTextureName(AltisCraft.MODID + ":Map");
         setCreativeTab(AltisCraft.altisCraftTab);
         setMaxStackSize(1);
     }
-    
+
     @Override
     public ItemStack onItemRightClick(ItemStack itemstack, World world, EntityPlayer player)
     {
-        ClientProxy.gps = !ClientProxy.gps;
+        ClientProxy.map();
         return itemstack;
     }
 }
