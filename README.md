@@ -43,5 +43,3 @@ Comptage du code Java fait sans compter les librairies tierces:
 ![alt text](https://raw.githubusercontent.com/Benjamin-Loison/AltisCraft.fr/master/Website/Images/12.png)
 
 ![alt text](https://raw.githubusercontent.com/Benjamin-Loison/AltisCraft.fr/master/Website/Images/11.png)
-
-e
