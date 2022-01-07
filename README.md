@@ -30,6 +30,8 @@ Toute utilisation abusive de littéralement copier-coller sera punie, des modifi
 
 <!-- Note: Ce code source peut daté et je ne suis pas fière de certaines parties. C'était mon tout premier projet d'informatique et c'est pour ce projet que mon engouement pour la programmation a débuté.  Quelques rares parties peuvent provenir de Flan's Mod et ThirstMod (j'ai fait mon maximum pour éviter de reuploader une partie de leurs codes).-->
 
+Any copy paste from these sources (cf above) is currently forbidden.
+
 A big thank you to Diabolicatrix, Robin and the whole Minecraft Forge France community for the help they gave me when I started.
 
 Java code counting done without counting third party libraries:
