@@ -1,6 +1,10 @@
 # AltisCraft.fr
 
-If you have a full source code access token, use it in a terminal with git: git clone https://git:TOKEN@gitlab.com/Benjamin_Loison/AltisCraft.fr.git (5.2 MB)
+If you have a full source code (5.2 MB) access token, use it in a terminal with git:
+
+```
+git clone https://git:TOKEN@gitlab.com/Benjamin_Loison/AltisCraft.fr.git
+```
 
 Minecraft AltisCraft.fr extension (more than 30 KLOC of Java and more than 85 000 players).
 
